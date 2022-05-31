@@ -3,6 +3,7 @@
     <h1>New user Register for DevOps Learning</h1>
     <p>Please fill in this form to create an account.</p>
     <p>05/30/2022 Denver, CO U.S.A.</p>
+    <p>2nd version for 05/30/2022 Monday Memorial Day</p>
     <hr>
      
     <label for="Name"><b>Enter Name</b></label>
@@ -22,7 +23,7 @@
     <br>
 
     <label for="psw-repeat"><b>Password Repeat Again</b></label>
-    <input type="password" placeholder="Repeat Password" name="psw-repeat" id="psw-repeat" required>
+    <input type="password" placeholder="Password Again" name="psw-repeat" id="psw-repeat" required>
     <hr>
     <br>
     <p>By creating an account you agree to our <a href="#">Terms & Privacy</a>.</p>
