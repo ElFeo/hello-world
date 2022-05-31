@@ -3,6 +3,7 @@
     <h1>New user Register for DevOps Learning</h1>
     <p>Please fill in this form to create an account.</p>
     <p>05/30/2022 Denver, CO U.S.A.</p>
+    <p>something missing??? </p>
     <p>2nd version for 05/30/2022 Monday Memorial Day</p>
     <hr>
      
